@@ -58,7 +58,7 @@ Collect the results.
 
 ### Sample output
 
-While the names have been the changed, the data is real. It seems my extender experience more dropouts that it's routed counterpart, and also has a higher average ping time to Google. 
+While the names have been the changed, the data is real. It seems my extender experiences more dropouts that its routed counterpart, and also has a higher average ping time to Google. Luckily it's barely noticable!
 
 Minimum|Maximum|Average|PacketsLost|Pings|Website|Location|Network
 -------|-------|-------|-------|-------|-------|-------|-------
