@@ -1,4 +1,6 @@
-Minimum|Maximum|Average|PacketsLost|Pings|Website|Location|Network
+Time taken for ping requests to Google to return on two networks:
+
+Minimum (ms)|Maximum (ms)|Average (ms)|PacketsLost|Pings|Website|Location|Network
 -------|-------|-------|-------|-------|-------|-------|-------
 7|116|17|1|150|www.google.com|Lounge|Router
 10|391|31|10|150|www.google.com|Lounge|Extender
